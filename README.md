@@ -3,7 +3,7 @@ A guide to getting started on TCL (currently my practice workspace)
 
 ## Getting Started with TCL
 ```Setup``` 
-* Ubuntu 22.04.2 LTS on Windows Subsystem for Linux
+* Ubuntu 22.04.2 LTS 
 
 ```Resources```  
 * [TCL official Tutorial](https://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html)
