@@ -18,7 +18,7 @@ To Launch TCL, on Command Line:
 
 To read a TCL file :
 
-    tclsh \<filename\>.tcl
+    tclsh <filename>.tcl
 
 Find the version of TCL - using TCL :)
 
