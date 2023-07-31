@@ -1,6 +1,6 @@
 # TCLish
 A guide to getting started on TCL (currently my practice workspace)
-
+If you would like to contribute to this directory (or suggest fixes) please email me at <saigov14@gmail.com> or even better - create an [issue](https://github.com/govardhnn/TCLish/issues/new).
 ## Getting Started with TCL
 ```Setup``` 
 * Ubuntu 22.04.2 LTS 
