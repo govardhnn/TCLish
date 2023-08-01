@@ -31,7 +31,7 @@ Find the version of TCL - using TCL :)
 4. Iteration
 5. `proc`
 6. Data Structures
-7. File Accesses
+7. File Access
 8. Debugging and I/O
 ####
 
