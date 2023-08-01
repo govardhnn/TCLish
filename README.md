@@ -25,14 +25,15 @@ Find the version of TCL - using TCL :)
     puts $tcl_version
 
 ## Topic-wise practice programs for TCL scripting
-1. Basic Syntax
+1. [Basic Syntax](./tcl/basic_syntax.tcl)
 2. Math `expr`essions 
 3. Conditional Statements
 4. Iteration
 5. `proc`
 6. Data Structures
-7. File Access
-8. Debugging and I/O
+7. [File Access](./tcl/file_access.tcl)
+8. File Operations
+9. Debugging and I/O
 ####
 
 ## Resources
