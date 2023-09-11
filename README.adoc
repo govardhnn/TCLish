@@ -1,0 +1,57 @@
+== TCLish
+
+A guide to getting started on TCL (currently my practice workspace) If
+you would like to contribute to this directory (or suggest fixes) please
+email me at saigov14@gmail.com or even better - create an
+https://github.com/govardhnn/TCLish/issues/new[issue].
+
+=== Getting Started with TCL
+
+`Setup`
+
+	Ubuntu 22.04.2 LTS
+
+`Resources`
+
+TCL Toolchain Setup:
+
+....
+sudo apt install tcl
+....
+
+To Launch TCL, on Command Line:
+
+....
+tclsh
+....
+
+To read a TCL file :
+
+....
+tclsh <filename>.tcl
+....
+
+Find the version of TCL - using TCL :)
+
+....
+puts $tcl_version
+....
+
+=== Topic-wise practice programs for TCL scripting
+
+[arabic]
+. link:./tcl/basic_syntax.tcl[Basic Syntax]
+. link:./tcl/math_expr.tcl[Math `expr`essions]
+. link:./tcl/conditional.tcl[Conditional Statements]
+. link:./tcl/iteration.tcl[Iteration]
+. link:./tcl/procedures.tcl[`proc`]
+. link:./tcl/data_structs.tcl[Data Structures]
+. link:./tcl/file_access.tcl[File Access]
+. link:./tcl/file_opers.tcl[File Operations] ####
+
+=== Resources
+
+______________________________________________________________________________
+https://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html[TCL official
+Tutorial]
+______________________________________________________________________________
