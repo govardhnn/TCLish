@@ -39,7 +39,7 @@ puts $tcl_version
 . link:./tcl/procedures.tcl[`proc`]
 . link:./tcl/data_structs.tcl[Data Structures]
 . link:./tcl/file_access.tcl[File Access]
-. link:./tcl/file_opers.tcl[File Operations] ####
+. link:./tcl/file_opers.tcl[File Operations] 
 
 === Resources
 
