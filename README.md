@@ -26,14 +26,13 @@ Find the version of TCL - using TCL :)
 
 ## Topic-wise practice programs for TCL scripting
 1. [Basic Syntax](./tcl/basic_syntax.tcl)
-2. Math `expr`essions 
-3. Conditional Statements
-4. Iteration
-5. `proc`
-6. Data Structures
+2. [Math `expr`essions](./tcl/math_expr.tcl) 
+3. [Conditional Statements](./tcl/conditional.tcl)
+4. [Iteration](./tcl/iteration.tcl)
+5. [`proc`](./tcl/procedures.tcl)
+6. [Data Structures](./tcl/data_structs.tcl)
 7. [File Access](./tcl/file_access.tcl)
-8. File Operations
-9. Debugging and I/O
+8. [File Operations](./tcl/file_opers.tcl)
 ####
 
 ## Resources
